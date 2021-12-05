@@ -1,6 +1,6 @@
 - 👋 Hi there, I'm Abdulrahman.
 - ❣️ I’m currently working on SAFCSP.
-- 🌱 I’m currently learning android, web and game development.
+- 🌱 Learning Android, Web and Game development.
 - 💬 How to reach me: Ghamdi.Dev@Gmail.Com.
 - 🌀 Fun fact: I love video games.
 
