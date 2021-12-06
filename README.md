@@ -19,7 +19,7 @@
 <h3 align="center">About Me</h3>
 
 <p align="justify">
-I'm Android developer graduated with second class honor in computer science (CS) major. Programming and development in-general is my passion. I hava a good background in android, web development and problems solution. Skills: Java, Kotlin, HTML, CSS, Javascript and C#. I’m currently working on SAFCSP as software engineer and learning Android, Web and Game development. You can reach me via <a href="Ghamdi.Dev@Gmail.Com">email</a>. Fun fact: I love video games.
+I'm Android developer graduated with second class honor in computer science (CS) major. Programming and development in-general is my passion. I hava a good background in android, web development and problems solution. Skills: Java, Kotlin, HTML, CSS, Javascript and C#. I’m currently working on SAFCSP as software engineer and learning Android, Web and Game development. You can reach me via <a href="mailto: Ghamdi.Dev@Gmail.Com">Ghamdi.Dev@Gmail.Com</a>. Fun fact: I love video games.
 </P>
 
 ##
