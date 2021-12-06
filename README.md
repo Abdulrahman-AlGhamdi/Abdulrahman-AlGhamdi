@@ -27,12 +27,16 @@ I'm Android developer graduated with second class honor in computer science (CS)
 <h3 align="center">Languages and Tools</h3>
 
 <p align="center">
-  <img height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/android/android.svg">
-  <img height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/kotlin/kotlin.svg">
-  <img height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/java/java.svg">
-  <img height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/firebase/firebase.svg"/>
-  <img height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg"/>
-  <img height="42px"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"/>
+  <img height="42px" alt="Android" src="./assets/icons/android/android.svg">
+  <img height="42px" alt="Kotlin" src="./assets/icons/kotlin/kotlin.svg">
+  <img height="42px" alt="Java" src="./assets/icons/java/java.svg">
+  <img height="42px" alt="Firebase" src="./assets/icons/firebase/firebase.svg"/>
+  <img height="42px" alt="Git" src="./assets/icons/git/git.svg"/>
+  <img height="42px" alt="Javascript" src="./assets/icons/javascript/javascript.svg"/>
+  <img height="42px" alt="C#" src="./assets/icons/c-sharp/c-sharp.png"/>
+  <img height="42px" alt="HTML" src="./assets/icons/html/html.svg"/>
+  <img height="42px" alt="CSS" src="./assets/icons/css/css.svg"/>
+  <img height="42px" alt="Spring" src="./assets/icons/spring/spring.svg"/>
 </p>
 
 ##
@@ -40,6 +44,6 @@ I'm Android developer graduated with second class honor in computer science (CS)
 <h3 align="center">Profile Stats</h3>
 
 <p align="center">
-  <img height="180px" alt="Abdulrahman Al-Ghamdi's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Abdulrahman-AlGhamdi&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"/>
-  <img height="180px" alt="Abdulrahman Al-Ghamdi's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulrahman-AlGhamdi&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook"/>
+  <img height="175px" alt="Abdulrahman Al-Ghamdi's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Abdulrahman-AlGhamdi&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"/>
+  <img height="175px" alt="Abdulrahman Al-Ghamdi's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulrahman-AlGhamdi&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook"/>
 </p>
