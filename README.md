@@ -28,15 +28,16 @@ I'm Android developer graduated with second class honor in computer science (CS)
 
 <p align="center">
   <img height="42px" alt="Android" src="./assets/icons/android/android.svg">
+  <img height="42px" alt="Node" src="./assets/icons/node/node.svg"/>
+  <img height="42px" alt="Spring" src="./assets/icons/spring/spring.svg"/>
+  <img height="42px" alt="Git" src="./assets/icons/git/git.svg"/>
+  <img height="42px" alt="Firebase" src="./assets/icons/firebase/firebase.svg"/>
   <img height="42px" alt="Kotlin" src="./assets/icons/kotlin/kotlin.svg">
   <img height="42px" alt="Java" src="./assets/icons/java/java.svg">
-  <img height="42px" alt="Firebase" src="./assets/icons/firebase/firebase.svg"/>
-  <img height="42px" alt="Git" src="./assets/icons/git/git.svg"/>
   <img height="42px" alt="Javascript" src="./assets/icons/javascript/javascript.svg"/>
   <img height="42px" alt="C#" src="./assets/icons/c-sharp/c-sharp.png"/>
   <img height="42px" alt="HTML" src="./assets/icons/html/html.svg"/>
   <img height="42px" alt="CSS" src="./assets/icons/css/css.svg"/>
-  <img height="42px" alt="Spring" src="./assets/icons/spring/spring.svg"/>
 </p>
 
 ##
